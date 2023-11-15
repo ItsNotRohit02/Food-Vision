@@ -1,4 +1,5 @@
 # Food-Vision
+FoodVision is an Image Classification model that is fine tuned on a Vision Transformer Model. A custom dataset was created to include 121 classes of different foods from different cuisines. In total over 100,000 images were used to finetune the model to correctly classify foods. The model has an accuracy of 90.2%.
 FoodVision can be found [here](https://huggingface.co/spaces/ItsNotRohit/FoodVision).
 
 ## Overview
